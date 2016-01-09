@@ -1,3 +1,3 @@
 <?php
 
-echo "hello dotcloud hahahah6666666";
+echo "hello heroku hahahah6666666";
